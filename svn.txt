@@ -1,0 +1,12 @@
+Path: .
+Working Copy Root Path: 
+URL: 
+Relative URL: 
+Repository Root: 
+Repository UUID: 
+Revision: 125905
+Node Kind: directory
+Schedule: normal
+Last Changed Author: 
+Last Changed Rev: 
+Last Changed Date:
